@@ -1,7 +1,6 @@
 # Proje 1 (Insertion Sort)
 
 
-
 ## 1.Soru
 
 liste 6 elemandan oluşmasına rağmen 5 adımda gerçekleşir. İlk aşamada ilk eleman kendisi dışındaki 5 eleman ile karşılaştırılır. Dolayısıyla n=5 ten başlar.
